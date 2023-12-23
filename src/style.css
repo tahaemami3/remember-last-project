@@ -1,0 +1,18 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 600px;
+    height: 100px;
+    border-radius: 20px;
+    background-color: #bddf00;
+    margin: auto;
+    margin-top: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff;
+}
